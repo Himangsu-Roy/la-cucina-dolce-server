@@ -1,4 +1,4 @@
-const express = require("express")
+const express = require("express");
 const app = express();
 const cors = require("cors");
 const port = 5000;
@@ -18,7 +18,9 @@ app.get("/chefs", (req, res) => {
     res.send(chefs)
 })
 
-
+app.get("/recipes", (req, res) => {
+    res.send(recipes)
+})
 
 app.listen(port, () => {
     console.log(`Chef recipe hunter server is running on port: ${port}`)
