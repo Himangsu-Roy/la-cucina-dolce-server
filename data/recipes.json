@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "name": "Giada De Laurentiis",
-    "picture": "https://www.giadzy.com/wp-content/uploads/Giada-De-Laurentiis.jpg",
+    "name": "Gino D'Acampo",
+    "picture": "https://i2-prod.examinerlive.co.uk/incoming/article21561033.ece/ALTERNATES/s615b/0_Gino-DAcampo.jpg",
     "bio": "Giada De Laurentiis is an Italian-American chef and television personality. She is the host of Food Network's Giada at Home. Her cooking style focuses on Italian cuisine and she is known for her simple and healthy recipes.",
     "likes": 25000,
     "num_recipes": 75,
@@ -59,8 +59,8 @@
   },
   {
     "id": 2,
-    "name": "Mario Batali",
-    "picture": "https://www.chowstatic.com/assets/2015/09/30300_mario_batali.jpg",
+    "name": "Antonio Carluccio",
+    "picture": "https://i.insider.com/5a0327b013ed513b4b67593a?width=1000&format=jpeg&auto=webp",
     "bio": "Mario Batali is an American chef, restaurateur, and writer. He is known for his Italian-American cuisine and has authored several cookbooks. Batali is the recipient of numerous awards for his culinary achievements.",
     "likes": 18000,
     "num_recipes": 50,
@@ -118,8 +118,8 @@
   },
   {
     "id": 3,
-    "name": "Lidia Bastianich",
-    "picture": "https://www.lidiasitaly.com/wp-content/uploads/2019/09/2019-lidia-bastianich-website-image.jpg",
+    "name": "Giada De Laurentiis",
+    "picture": "https://food.fnr.sndimg.com/content/dam/images/food/editorial/shows/g/giada-in-italy/fnk-app-show-art-giada-in-italy.jpg.rend.hgtvcom.616.462.suffix/1586943867698.jpeg",
     "bio": "Lidia Bastianich is an Italian-American chef, restaurateur, and television host. She is the owner of several restaurants and has authored several cookbooks. Bastianich's cooking style is rooted in traditional Italian cuisine.",
     "likes": 22000,
     "num_recipes": 65,
@@ -180,22 +180,7 @@
           "4 tbsp. unsalted butter",
           "Salt and freshly ground black pepper"
         ],
-        "cooking_method": [
-          "Cut off the tough bottom ends of the asparagus and discard.",
-          "Cut the tender stems and tips into 1-inch pieces and reserve.",
-          "In a medium saucepan, bring the stock to a simmer.",
-          "In a large skillet or sauté pan, heat the olive oil over medium heat until hot but not smoking.",
-          "Add the prosciutto and sauté for about 2 minutes, until lightly browned.",
-          "Add the onion and cook until it is translucent, about 5 minutes.",
-          "Add the rice and stir to coat it with the oil and juices in the pan, toasting it for a minute or two until it begins to smell nutty.",
-          "Add the wine and cook until it is nearly evaporated.",
-          "Add a ladleful of hot stock to the rice and cook, stirring, until it has been absorbed.",
-          "Continue adding hot stock, a ladleful at a time, stirring and letting each addition be absorbed before adding the next.",
-          "After 10 minutes, add the asparagus stems to the rice.",
-          "When the rice is cooked, but still has some bite to it (about 18 to 20 minutes total), stir in the asparagus tips.",
-          "Remove from heat, stir in the cheese and butter until melted and combined.",
-          "Season with salt and pepper to taste."
-        ],
+        "cooking_method": "Cut off the tough bottom ends of the asparagus and discard. Cut the tender stems and tips into 1-inch pieces and reserve. In a medium saucepan, bring the stock to a simmer. In a large skillet or sauté pan, heat the olive oil over medium heat until hot but not smoking. Add the prosciutto and sauté for about 2 minutes, until lightly browned. Add the onion and cook until it is translucent, about 5 minutes. Add the rice and stir to coat it with the oil and juices in the pan, toasting it for a minute or two until it begins to smell nutty. Add the wine and cook until it is nearly evaporated. Add a ladleful of hot stock to the rice and cook, stirring, until it has been absorbed. Continue adding hot stock, a ladleful at a time, stirring and letting each addition be absorbed before adding the next. After 10 minutes, add the asparagus stems to the rice. When the rice is cooked, but still has some bite to it (about 18 to 20 minutes total), stir in the asparagus tips. Remove from heat, stir in the cheese and butter until melted and combined. Season with salt and pepper to taste.",
         "rating": 4.8,
         "is_favorite": false
       }
@@ -203,14 +188,15 @@
   },
   {
     "id": 4,
-    "name": "Massimo Bottura",
-    "picture": "https://static01.nyt.com/images/2016/01/20/dining/20BOTTURA1/20BOTTURA1-superJumbo.jpg",
+    "name": "Mario Batali",
+    "picture": "https://cdn.britannica.com/05/206005-050-9138C8AC/Mario-Batali-American-chef-television-personality-2017.jpg",
     "bio": "Massimo Bottura is an Italian chef and owner of Osteria Francescana, a three-Michelin-starred restaurant in Modena, Italy. He is known for his innovative and avant-garde approach to Italian cuisine.",
     "likes": 27000,
     "num_recipes": 40,
     "experience": 30,
     "recipes": [
       {
+        "id": 1,
         "name": "Parmigiano Reggiano Five Ways",
         "ingredients": [
           "100g Parmigiano Reggiano cheese",
@@ -225,6 +211,7 @@
         "favorite": false
       },
       {
+        "id": 2,
         "name": "Squash and Parmesan Soup",
         "ingredients": [
           "1 butternut squash",
@@ -241,28 +228,28 @@
         "favorite": false
       },
       {
-  "name": "Spaghetti with Clams and Bottarga",
-  "ingredients": [
-    "1 pound spaghetti",
-    "2 tbsp. olive oil",
-    "4 garlic cloves, sliced",
-    "1 tsp. red pepper flakes",
-    "1 cup dry white wine",
-    "2 dozen littleneck clams, scrubbed and rinsed",
-    "1/2 cup grated bottarga",
-    "Salt and pepper to taste"
-  ],
-  "cooking_method": "1. Cook the spaghetti in salted boiling water until al dente. \n2. In a large skillet, heat the olive oil over medium heat. \n3. Add the garlic and red pepper flakes and sauté until fragrant. \n4. Add the white wine and clams and cover the skillet. \n5. Cook until the clams open, about 5 minutes. \n6. Remove the clams from the skillet and set aside. \n7. Add the cooked spaghetti to the skillet and toss with the sauce. \n8. Add the grated bottarga and toss again. \n9. Season with salt and pepper to taste. \n10. Serve the spaghetti topped with the clams and additional grated bottarga, if desired.",
-  "rating": 4.9,
-  "favorite": true
-}
-
+        "id": 3,
+        "name": "Spaghetti with Clams and Bottarga",
+        "ingredients": [
+          "1 pound spaghetti",
+          "2 tbsp. olive oil",
+          "4 garlic cloves, sliced",
+          "1 tsp. red pepper flakes",
+          "1 cup dry white wine",
+          "2 dozen littleneck clams, scrubbed and rinsed",
+          "1/2 cup grated bottarga",
+          "Salt and pepper to taste"
+        ],
+        "cooking_method": "1. Cook the spaghetti in salted boiling water until al dente. \n2. In a large skillet, heat the olive oil over medium heat. \n3. Add the garlic and red pepper flakes and sauté until fragrant. \n4. Add the white wine and clams and cover the skillet. \n5. Cook until the clams open, about 5 minutes. \n6. Remove the clams from the skillet and set aside. \n7. Add the cooked spaghetti to the skillet and toss with the sauce. \n8. Add the grated bottarga and toss again. \n9. Season with salt and pepper to taste. \n10. Serve the spaghetti topped with the clams and additional grated bottarga, if desired.",
+        "rating": 4.9,
+        "favorite": true
+      }
     ]
   },
   {
     "id": 5,
-    "name": "Gennaro Contaldo",
-    "picture": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/chef-image/gennaro_contaldo.png?itok=5OwceKd7",
+    "name": "Massimo Bottura",
+    "picture": "https://www.foodandwine.com/thmb/7TKiLuPyH7bOiGijChLjei2JHEA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gucci-osteria-Massimo-Bottura-VT-BLOG0220-e813072cbc0847648ccc3cecba04744f.jpg",
     "bio": "Gennaro Contaldo is an Italian chef and restaurateur based in London. He is known for his rustic Italian cooking style and has appeared on several cooking shows, including Jamie Oliver's Food Tube.",
     "likes": 15000,
     "num_recipes": 30,
@@ -319,11 +306,11 @@
   },
   {
     "id": 6,
-    "name": "Carluccio Antonio",
+    "name": "Lidia Bastianich",
     "experience": "32 years",
     "num_recipes": 78,
     "likes": 950,
-    "picture": "https://images.unsplash.com/photo-1526454563818-07c2b137f9ce",
+    "picture": "https://www.syracuse.com/resizer/1jxY1JM0UR2Ze6hT431FbmvVPko=/800x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KOVDPQBYMNEN5IC5CBCUJQDFWM.jpg",
     "bio": "Carluccio Antonio is an Italian chef, restaurateur and food expert, based in London. He has been working in the food industry for over 32 years, and has written 22 cookbooks. Antonio has also been the face of several BBC television shows on Italian cooking, and has won numerous awards for his contributions to the culinary world.",
     "recipes": [
       {
